@@ -1,4 +1,7 @@
 {
   "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
