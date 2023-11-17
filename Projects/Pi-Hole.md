@@ -1,0 +1,1 @@
+While Pi-Hole would be great, it needs a dedicated machine on the local network in order to function.  However, since we plan on getting [[Home Assistant]], its addon [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) can work in its place.  There used to be a Pi-Hole implementation for Home Assistant, but it's abandoned.

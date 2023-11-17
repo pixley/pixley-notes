@@ -1,0 +1,3 @@
+[Documentation for Qt6 localization](https://doc.qt.io/qt-6/i18n-source-translation.html)
+
+Qt's primary means of localization is to use the owning QObject as context.  I don't believe this would work too well when it comes to having the same text in multiple places, so it might be better to use some kind of hierarchical context system, like `Navigation|Back`.  This might be worth incorporating into [[Personal Qt-Based Library]].
