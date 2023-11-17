@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4af8b6c568c8cabe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7018041cf2fd92f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Major Task List.md",
+                "file": "RPG Sounds Replacement.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Major Task List.md",
+            "file": "RPG Sounds Replacement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Major Task List.md",
+            "file": "RPG Sounds Replacement.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Major Task List.md"
+            "file": "RPG Sounds Replacement.md"
           }
         }
       }
@@ -142,10 +133,11 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
-    "Root.md",
-    "Major Task List.md",
     "Project Ideas.md",
+    "Personal Qt-Based Library.md",
     "RPG Sounds Replacement.md",
+    "Major Task List.md",
+    "Root.md",
     "Use Ultra Spicy server as a VPN.md"
   ]
 }

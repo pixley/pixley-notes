@@ -4,3 +4,4 @@
 [[RPG Sounds Replacement]]
 [[Home Assistant]]
 [[Foundry for Luyou]]
+[[Personal Qt-Based Library]]

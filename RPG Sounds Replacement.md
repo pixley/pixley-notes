@@ -14,6 +14,13 @@ Requirements
 - Preview audio source.  It would be nice for the user to be able to preview sounds through a separate configurable audio device so that previews can be done privately.
 - Light and dark modes.  I hate light mode and Luyou hates dark mode.
 - Drag-and-drop from library to stage.
+- UI scaling, both system-based and custom options.
+- Save window size.
+- Resizeable panels.
 
 Tech
-- Likely C++ with Qt
+- Likely C++20 with Qt
+- Linux cross-compile
+- Need to find audio and socket/VBAN libraries
+- User save data via JSON
+- Config via INI files
