@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "1e375b253acef3f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8716f17e437c2ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af8b6c568c8cabe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7018041cf2fd92f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Major Task List.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da65d190009727f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "058f6aa301b0c70c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f5119d7e2919f1e3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f8c9c2de8ea9e9ab",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "526886d7dd481c29",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c4834be8808be23c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9a1a59f2edc8b22",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Major Task List.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "833f7155bac67887",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Major Task List.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "85e5469c5a740057",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Major Task List.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7018041cf2fd92f0",
+  "lastOpenFiles": [
+    "Root.md",
+    "Major Task List.md",
+    "Project Ideas.md",
+    "RPG Sounds Replacement.md",
+    "Use Ultra Spicy server as a VPN.md"
+  ]
+}
