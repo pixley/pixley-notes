@@ -1,5 +1,0 @@
-- JSON serialization via parent class with combined read-write methods
-- Logging with arbitrary format parameters
-- Config via INI with proper default handling
-- Unreal-style numeric typenames
-- Enum bounds checking and validation

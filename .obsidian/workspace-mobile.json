@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG Sounds Replacement.md",
+                "file": "Root.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RPG Sounds Replacement.md",
+            "file": "Root.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RPG Sounds Replacement.md",
+            "file": "Root.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "RPG Sounds Replacement.md"
+            "file": "Root.md"
           }
         }
       }
@@ -133,11 +133,19 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
-    "Project Ideas.md",
-    "Personal Qt-Based Library.md",
-    "RPG Sounds Replacement.md",
-    "Major Task List.md",
+    "Mental Health/Mental Health.md",
     "Root.md",
-    "Use Ultra Spicy server as a VPN.md"
+    "Mental Health",
+    "Projects/Project Ideas.md",
+    "Projects/Personal Qt-Based Library.md",
+    "Concepts/Localization in Qt.md",
+    "Concepts/Concepts to Consider.md",
+    "Concepts",
+    "Tasks",
+    "Tasks/Major Task List.md",
+    "Projects",
+    "Projects/Pi-Hole.md",
+    "Projects/RPG Sounds Replacement.md",
+    "Projects/Use Ultra Spicy server as a VPN.md"
   ]
 }
