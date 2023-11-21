@@ -3,5 +3,7 @@
   "autoPairBrackets": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "focusNewTab": false,
+  "strictLineBreaks": true
 }
