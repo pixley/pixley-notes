@@ -1,0 +1,16 @@
+- Compiled to native binary
+- Object-oriented
+- Types representing functions/methods are well-defined and readable
+- Modules
+- Templates with strong concepting
+- Insignificant whitespace
+- Strong and strict typing
+- Support for reflection
+- Single inheritance with interfaces
+- Private, protected, module, public
+- Ability to define getters and setters on member variable declaration
+- Left-to-right parameter eval
+- No garbage collection
+- Smart pointers
+- Limited symbolic syntax (`ptr` for pointers, `and` for logical and, etc)
+- Arbitrary operator definition

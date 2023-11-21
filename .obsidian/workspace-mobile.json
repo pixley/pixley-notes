@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Root.md",
-                "mode": "preview",
+                "file": "Concepts/Dream Programming Language.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Root.md",
+            "file": "Concepts/Dream Programming Language.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Root.md",
+            "file": "Concepts/Dream Programming Language.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Root.md"
+            "file": "Concepts/Dream Programming Language.md"
           }
         }
       }
@@ -134,9 +134,10 @@
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
     "Concepts/Concepts to Consider.md",
+    "Concepts/Dream Programming Language.md",
     "Root.md",
-    "Tasks/Major Task List.md",
     "Projects/Project Ideas.md",
+    "Tasks/Major Task List.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Projects/Foundry for Luyou.md",
     "Projects/Home Assistant.md",
