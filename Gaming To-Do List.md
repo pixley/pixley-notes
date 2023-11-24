@@ -1,0 +1,33 @@
+- Build swamp-themed custom scenario in OpenRCT2
+  - Starting path network built on land bridges
+  - Terrain changes forbidden
+  - Tree removal forbidden
+  - Most of lot is water
+- Finish Tears of the Kingdom
+- Resume co-op Baldur's Gate
+- Resume single-player Baldur's Gate
+- Resume Starfield
+- Play more Ship of Harkinian
+- Build carless city in Cities Skylines or other citybuilder
+- Resume Brilliant Diamond
+- Finish Legends Arceus
+- Update Pokémon Home living dex
+- Play more Flight Simulator
+- Mount Vive Lighthouses
+- Finish Star Wars Squadrons
+- Finish Witcher 3
+- Resume Mass Effect Legendary Edition
+- Play Fire Emblem Three Houses
+- Finish Fire Emblem Warriors Three Hopes
+- Play more Beat Saber
+- Play more ALttPR
+- Play more Metroid randos
+  - Zero Mission
+  - Fusion
+  - Prime
+  - AM2R
+  - Samus Returns (if that exists)
+- Resume Metroid Prime Remastered
+- Play more Parkitect
+- Play more SSX on Dolphin
+- Evaluate progress on CEMU to see if BotW is good to play

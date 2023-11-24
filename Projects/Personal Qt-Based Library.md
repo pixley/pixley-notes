@@ -3,3 +3,5 @@
 - Config via INI with proper default handling
 - Unreal-style numeric typenames
 - Enum bounds checking and validation
+  - Not maintained anymore, but the [meta_enum](https://github.com/therocode/meta_enum) header looks like a great starting point.
+  - Many other attempts at enum reflection make use of disgusting macro-loops that limit the maximum size of the enum.

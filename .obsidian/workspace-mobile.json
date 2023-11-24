@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Concepts/Dream Programming Language.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,10 +133,16 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
-    "Concepts/Concepts to Consider.md",
-    "Concepts/Dream Programming Language.md",
-    "Root.md",
+    "Projects/Personal Qt-Based Library.md",
     "Projects/Project Ideas.md",
+    "Root.md",
+    "Concepts/Concepts to Consider.md",
+    "Projects/Use Ultra Spicy server as a VPN.md",
+    "Projects/RPG Sounds Replacement.md",
+    "Projects/TimelineBuilder.md",
+    "Gaming To-Do List.md",
+    "Mental Health/Mental Health.md",
+    "Concepts/Dream Programming Language.md",
     "Tasks/Major Task List.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Projects/Foundry for Luyou.md",
@@ -147,15 +153,11 @@
     "Tasks/EU Blue Card.md",
     "Tasks/Absentee Ballot Registration.md",
     "Tasks/(Am.md",
-    "Mental Health/Mental Health.md",
     "Mental Health",
-    "Projects/Personal Qt-Based Library.md",
     "Concepts/Localization in Qt.md",
     "Concepts",
     "Tasks",
     "Projects",
-    "Projects/Pi-Hole.md",
-    "Projects/RPG Sounds Replacement.md",
-    "Projects/Use Ultra Spicy server as a VPN.md"
+    "Projects/Pi-Hole.md"
   ]
 }
