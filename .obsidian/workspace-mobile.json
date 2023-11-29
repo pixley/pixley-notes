@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Dream Programming Language.md",
+                "file": "Projects/Scribe Replacement for Obsidian.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Concepts/Dream Programming Language.md",
+            "file": "Projects/Scribe Replacement for Obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Concepts/Dream Programming Language.md",
+            "file": "Projects/Scribe Replacement for Obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Concepts/Dream Programming Language.md"
+            "file": "Projects/Scribe Replacement for Obsidian.md"
           }
         }
       }
@@ -133,8 +133,10 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
-    "Projects/Personal Qt-Based Library.md",
     "Projects/Project Ideas.md",
+    "Projects/Scribe Replacement for Obsidian.md",
+    "Concepts/Dream Programming Language.md",
+    "Projects/Personal Qt-Based Library.md",
     "Root.md",
     "Concepts/Concepts to Consider.md",
     "Projects/Use Ultra Spicy server as a VPN.md",
@@ -142,7 +144,6 @@
     "Projects/TimelineBuilder.md",
     "Gaming To-Do List.md",
     "Mental Health/Mental Health.md",
-    "Concepts/Dream Programming Language.md",
     "Tasks/Major Task List.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Projects/Foundry for Luyou.md",
