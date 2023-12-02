@@ -66,6 +66,13 @@ class Vector3D
 
     public constructor(const Vector3D ref other)
     {
+        X(other.X);
+        Y(other.Y);
+        Z(other.Z);
+    }
+
+    public operator_:(const Vector3D ref other) -> Vector3D ref
+    {
         X: other.X;
         Y: other.Y;
         Z: other.Z;
@@ -74,11 +81,6 @@ class Vector3D
     public const operator_=(const Vector3D ref other) -> bool
     {
         return (X = other.X) and (Y = other.Y) and (Z = other.Z);
-    }
-
-    public const operator_not=(const Vector3D ref other) -> bool
-    {
-        return not (Self = other);
     }
 
     public const operator_+(const Vector3D ref other) -> Vector3D
@@ -109,7 +111,11 @@ class Vector3D
 
     public const operator_cross(const Vector3D ref other) -> Vector3D
     {
-        // I don't remember cross-product off the top of my head.
+        const float newX = (Y * other.Z) - (Z * other.Y);
+        const float newY = (Z * other.X) - (X * other.Z);
+        const float newZ = (X * other.Y) - (Y * other.X);
+
+        return Vector3D(newX, newY, newZ);
     }
 
     public const GetLength() -> float
@@ -141,7 +147,7 @@ class Vector3D
 
     static GetDistanceSquared(const Vector3D ref a, const Vector3D ref b)
     {
-        return (b - a).GetLengthSquared();
+        return (a.X + b.X) + (a.Y * b.Y) + (a.Z + b.Z);
     }
 
     static GetDistance(const Vector3D ref a, const Vector3D ref b)
