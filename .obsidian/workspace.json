@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Migrate Luyou Weebly to Wordpress.md",
+                "file": "Concepts/PF2e Remaster Notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Migrate Luyou Weebly to Wordpress.md",
+                "file": "Concepts/PF2e Remaster Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Migrate Luyou Weebly to Wordpress.md",
+                "file": "Concepts/PF2e Remaster Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Migrate Luyou Weebly to Wordpress.md"
+                "file": "Concepts/PF2e Remaster Notes.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "54436f1fef062571",
   "lastOpenFiles": [
+    "Concepts/Concepts to Consider.md",
+    "Concepts/PF2e Remaster Notes.md",
     "Projects/Project Ideas.md",
+    "Projects/Use Ultra Spicy server as a VPN.md",
+    "Tasks/Major Task List.md",
+    "Tasks/Therapists.md",
+    "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Root.md",
     "Concepts/Dream Programming Language.md",
     "Projects/TimelineBuilder.md",
     "Concepts/Localization in Qt.md",
-    "Concepts/Concepts to Consider.md",
     "Mental Health/Mental Health.md",
     "Projects/Personal Qt-Based Library.md",
     "Projects/Pi-Hole.md",
-    "Projects/RPG Sounds Replacement.md",
-    "Projects/Use Ultra Spicy server as a VPN.md",
-    "Tasks/Major Task List.md"
+    "Projects/RPG Sounds Replacement.md"
   ]
 }

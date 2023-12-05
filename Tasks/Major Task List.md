@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | [[EU Blue Card]] | Very High | Large | In Progress |
 | [[German Driver Licenses]] | Very High | Medium | In Progress |
-| [[Therapists]] | High | Medium | To Do |
+| [[Therapists]] | High | Medium | In Progress |
 | [[Luyou Specialist Doctors]] | High | Medium | To Do |
 | [[Learning German]] | Very High | Huge | To Do |
 | [[Dog Adoption]] | Very High | Large | To Do |

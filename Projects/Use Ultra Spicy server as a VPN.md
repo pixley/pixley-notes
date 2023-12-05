@@ -3,3 +3,5 @@ Since the Ultra Spicy server is in Ohio and we already pay for it, there's no re
 OpenVPN is a FOSS solution.
 - [Installation instructions](https://community.openvpn.net/openvpn/wiki/HOWTO)
 - [IPv6 configuration](https://community.openvpn.net/openvpn/wiki/IPv6)
+
+Current status: COMPLETE

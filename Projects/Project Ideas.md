@@ -1,6 +1,6 @@
 | **Project** | **Priority** | **Size** | **Status** |
 | --- | --- | --- | --- |
-| [[Use Ultra Spicy server as a VPN]] | Medium | Medium | To Do |
+| [[Use Ultra Spicy server as a VPN]] | Medium | Medium | Complete |
 | [[Migrate Luyou Weebly to Wordpress]] | High | Medium | In Progress |
 | [[TimelineBuilder]] | Low | Huge | In Progress |
 | [[RPG Sounds Replacement]] | Low | Large | To Do |
