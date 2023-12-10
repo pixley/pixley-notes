@@ -8,4 +8,4 @@
 | [[Foundry for Luyou]] | Low | Large | In Progress |
 | [[Personal Qt-Based Library]] | Medium | Small | To Do |
 | [[Pi-Hole]] | Low | Small | To Do |
-| [[Scribe Replacement for Obsidian]] | Medium | Medium | To Do |
+| [[Scribe Replacement for Obsidian]] | Medium | Medium | Complete |

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/PF2e Remaster Notes.md",
+                "file": "Projects/Project Ideas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/PF2e Remaster Notes.md",
+                "file": "Projects/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/PF2e Remaster Notes.md",
+                "file": "Projects/Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/PF2e Remaster Notes.md"
+                "file": "Projects/Project Ideas.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "54436f1fef062571",
   "lastOpenFiles": [
-    "Concepts/Concepts to Consider.md",
-    "Concepts/PF2e Remaster Notes.md",
+    "Projects/Scribe Replacement for Obsidian.md",
     "Projects/Project Ideas.md",
+    "Concepts/PF2e Remaster Notes.md",
+    "Concepts/Concepts to Consider.md",
     "Projects/Use Ultra Spicy server as a VPN.md",
     "Tasks/Major Task List.md",
     "Tasks/Therapists.md",

@@ -4,8 +4,7 @@ There does already exist an Obsidian plugin, Fantasy Statblocks, that allows a u
 
 Additionally, there is an Obsidian theme called ITS, and it has a PF2e subtheme.  However, it is merely a cosmetic change, and it is not flexible enough to create statblocks within, only standard types of text already supported by Markdown.  As far is the maintainer is concerned, the existence of Fantasy Statblocks is sufficient.
 
-So how do we build this?  Obsidian has a plugin API.
-  It's TypeScript, though.  Yay.
+So how do we build this?  Obsidian has a plugin API.  It's TypeScript, though.  Yay.
 
 Obsidian has documentation for its API, and a convenient thing it has built-in is [Markdown post-processing](https://docs.obsidian.md/Plugins/Editor/Markdown+post+processing).  This allows a plugin to manipulate the HTML elements that result from Obsidian parsing the input Markdown.  It seems like the convention for replacement is to wrap the content to replace inside a code block.
 
@@ -19,3 +18,5 @@ HTML elements can also have custom CSS applied on creation, so this would allow 
 - Stat Block Titles: [FF-Good (Adobe)](https://fonts.adobe.com/fonts/ff-good)
 - Stat Block Text: [Roboto (Google)](https://fonts.google.com/specimen/Roboto)
 - Body Text and Header Flavor: [Sabon (Abobe)](https://fonts.adobe.com/fonts/sabon)
+
+Given that many of these fonts are proprietary, it's not worth the trouble.
