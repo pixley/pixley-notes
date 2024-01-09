@@ -1,8 +1,4 @@
 - Build swamp-themed custom scenario in OpenRCT2
-  - Starting path network built on land bridges
-  - Terrain changes forbidden
-  - Tree removal forbidden
-  - Most of lot is water
 - Finish Tears of the Kingdom
 - Resume co-op Baldur's Gate
 - Resume single-player Baldur's Gate
@@ -22,12 +18,52 @@
 - Play more Beat Saber
 - Play more ALttPR
 - Play more Metroid randos
-  - Zero Mission
-  - Fusion
-  - Prime
-  - AM2R
-  - Samus Returns (if that exists)
+	- Zero Mission
+	- Fusion
+	- Prime
+	- AM2R
+	- Samus Returns (if that exists)
+	- Dread (if possible)
 - Resume Metroid Prime Remastered
 - Play more Parkitect
 - Play more SSX on Dolphin
 - Evaluate progress on CEMU to see if BotW is good to play
+- Finish MCC campaigns
+- Resume Psychonauts 2
+- Try AoE4
+- Resume Chimera Squad
+- Finish Redout campaign
+- Finish Prey
+- Finish Marble it Up
+- Try Journey
+- Resume Halo Wars
+- Resume Half Life: Alyx
+- Resume Mass Effect: Legendary Edition
+- Finish Final Fantasy 3
+- Finish Dark Souls 1
+- Try Black Mesa
+- Resume Besiege
+- Finish Baba is You
+- Play AoE1&2 Definitive Editions
+- Try Total War: Shogun 2
+- Resume SBCG4AP
+- Resume Sekiro
+- Resume Pyre
+- Resume Ori and the Blind Forest
+	- Start Ori and the Will of the Wisps
+- Resume Metro 2033
+	- Start Metro: Last Light
+- Finish Hand of Fate
+- Try Hades
+- Try Ghostwire: Tokyo
+- Finish FTL
+- Try Darksiders
+- Finish Geometry Wars 3 campaign
+- Resume Pokémon Violet
+- Resume Wargroove campaign
+- Work through OpenRCT2 Scenarios
+- Resume Talos Principle VR
+- Gather folks to play Guns of Icarus: Alliance
+- Try Shadowrun Returns
+- Try Zone of the Enders demo
+- Retry Dragon Age: Origins

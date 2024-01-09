@@ -1,4 +1,4 @@
-Residency permit documentation has been submitted to Selmir at Fragomen.  Next and final step should be receiving the actual permits/cards, any corrections to registration forms notwithstanding.
+Appointment at the Immigration Office has been completed, and EU Blue Card application has been approved.  In January, our cards will be produced and made available for pickup at the Immigration Office.  Between the time that our original visas expire and obtaining the actual cards, we cannot leave the country.
 
 Employment change is easy after the first year (have to consult authorities before the one-year mark).  Permanent residency is possible after 33 months and proof of A1 German language proficiency (21 months if B1 reached).
 

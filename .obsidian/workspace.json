@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Ideas.md",
-                "mode": "preview",
+                "file": "Concepts/Toy English Phonetic Alphabet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Concepts/Toy English Phonetic Alphabet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Concepts/Toy English Phonetic Alphabet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Ideas.md"
+                "file": "Concepts/Toy English Phonetic Alphabet.md"
               }
             }
           }
@@ -148,16 +148,20 @@
   },
   "active": "54436f1fef062571",
   "lastOpenFiles": [
-    "Projects/Scribe Replacement for Obsidian.md",
-    "Projects/Project Ideas.md",
-    "Concepts/PF2e Remaster Notes.md",
     "Concepts/Concepts to Consider.md",
-    "Projects/Use Ultra Spicy server as a VPN.md",
+    "Concepts/Toy English Phonetic Alphabet.md",
+    "Gaming To-Do List.md",
+    "Concepts/Dream Programming Language.md",
+    "Concepts/PF2e Remaster Notes.md",
+    "Projects/Project Ideas.md",
     "Tasks/Major Task List.md",
     "Tasks/Therapists.md",
+    "Tasks/Absentee Ballot Registration.md",
+    "Projects/Use Ultra Spicy server as a VPN.md",
+    "Tasks/EU Blue Card.md",
+    "Projects/Scribe Replacement for Obsidian.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Root.md",
-    "Concepts/Dream Programming Language.md",
     "Projects/TimelineBuilder.md",
     "Concepts/Localization in Qt.md",
     "Mental Health/Mental Health.md",

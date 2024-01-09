@@ -5,3 +5,5 @@ OpenVPN is a FOSS solution.
 - [IPv6 configuration](https://community.openvpn.net/openvpn/wiki/IPv6)
 
 Current status: COMPLETE
+
+Note: Turns out that setting up a NAT gateway to do NAT64 is far more expensive than just keeping a IPv4 address, so that side has been reverted.
