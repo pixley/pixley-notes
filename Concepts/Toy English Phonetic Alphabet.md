@@ -2,6 +2,8 @@
 - Phonetic spelling for English
 	- One letter per sound, but not necessarily one sound per letter
 	- Reduced vowels are an exception
+	- As few context-dependent pronunciations as possible
+		- Written yod-dropping/coalescence was considered, but deemed impractical
 - Compatible with all major dialects
 	- Received Pronunciation
 	- General American
@@ -17,46 +19,44 @@
 ## Alphabet
 ### Consonants
 'Bb' - /b/
-'Cc' - /tʃ/
+'Cc' - /s/
 'Dd' - /d/
 'Ff' - /f/
 'Gg' - /g/
 'Hh' - /h/
-'Ᵹᵹ' - /dʒ/
+'Jj' - /dʒ/
 'Kk' - /k/
 'Ll' - /l/
 'Mm' - /m/
 'Nn' - /n/
-'Ππ' - /ŋ/
+'Σ#' - /ŋ/
 'Pp' - /p/
+'Qq' - /tʃ/
 'Rr' - /ɹ/
-'Ss' - /s/
-'ßʃ' - /ʃ/
+'Ss' - /ʃ/
 'Tt' - /t/
 'Γſ' - /θ/
-'Ѵѵ' - /ð/
 'Vv' - /v/
 'Ww' - /w/
-'Xx' - /ks/
+'Xx' - /ð/
 'Yy' - /j/
-'Jj' - /j/ (for yod coalescence only, otherwise silent)
 'Zz' - /z/
 'ζς' - /ʒ/
 ### Vowels
 **Note:** Due to significant vowel variation between dialects, vowel sounds are defined using the lexical sets.
-'Σδ' - palm
+'#δ' - palm
 'Ωσ' - lot
 'Δɑ' - trap
-'Ψψ' - price
-'Ҩҩ' - mouth
+'Ii' - price
+'Ψω' - mouth
 'Єє' - dress
 'Aa' - face
-'Ii' - kit
+'##' - kit
 'Ee' - fleece
 'Oo' - goat
-'Qq' - thought
+'Ꝺꝺ'- thought
 'Φφ' - choice
-'Ꝺꝺ' - foot
+'Ʊʊ' - foot
 'Uu' - goose
 'Λλ' - strut
 #### Rhotacized Vowels
@@ -66,10 +66,9 @@
 'ir' - hire
 'ωr' - flour
 'єr' - merry
-'ir' - ??? (mirror)
+'#r' - ??? (mirror)
 'er' - near
-'qr' - force/north
+'or' - force/north
 'φr' - ??? (coir)
-'#r' - courier, cure
-'#r' - nurse
+'ur' - courier, cure, nurse
 'λr' - hurry
