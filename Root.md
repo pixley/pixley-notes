@@ -3,3 +3,4 @@
 - [[Concepts to Consider]]
 - [[Mental Health]]
 - [[Gaming To-Do List]]
+- [[Random Notes]]

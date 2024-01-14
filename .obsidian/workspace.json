@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Toy English Phonetic Alphabet.md",
+                "file": "Random Notes/Random Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "caf11f30195b67f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Toy English Phonetic Alphabet.md",
+                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Toy English Phonetic Alphabet.md",
+                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Toy English Phonetic Alphabet.md"
+                "file": "Random Notes/AGDQ 2024 Runs of Note.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54436f1fef062571",
+  "active": "caf11f30195b67f3",
   "lastOpenFiles": [
-    "Concepts/Concepts to Consider.md",
+    "Random Notes/ADGQ 2024 Runs of Note.md",
+    "Random Notes/AGDQ 2024 Runs of Note.md",
+    "Random Notes/Random Notes.md",
+    "Random Notes",
+    "Root.md",
     "Concepts/Toy English Phonetic Alphabet.md",
+    "Concepts/Concepts to Consider.md",
     "Gaming To-Do List.md",
     "Concepts/Dream Programming Language.md",
     "Concepts/PF2e Remaster Notes.md",
@@ -161,7 +179,6 @@
     "Tasks/EU Blue Card.md",
     "Projects/Scribe Replacement for Obsidian.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
-    "Root.md",
     "Projects/TimelineBuilder.md",
     "Concepts/Localization in Qt.md",
     "Mental Health/Mental Health.md",
