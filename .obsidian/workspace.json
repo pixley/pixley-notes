@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
+                "file": "Teaching Luyou/Grammar Basics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
+                "file": "Teaching Luyou/Grammar Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Notes/AGDQ 2024 Runs of Note.md",
+                "file": "Teaching Luyou/Grammar Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Notes/AGDQ 2024 Runs of Note.md"
+                "file": "Teaching Luyou/Grammar Basics.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "caf11f30195b67f3",
   "lastOpenFiles": [
-    "Random Notes/ADGQ 2024 Runs of Note.md",
+    "Teaching Luyou/Things to Teach Luyou.md",
+    "Teaching Luyou/Grammar Basics.md",
+    "Teaching Luyou",
+    "Root.md",
     "Random Notes/AGDQ 2024 Runs of Note.md",
+    "Random Notes/ADGQ 2024 Runs of Note.md",
     "Random Notes/Random Notes.md",
     "Random Notes",
-    "Root.md",
     "Concepts/Toy English Phonetic Alphabet.md",
     "Concepts/Concepts to Consider.md",
     "Gaming To-Do List.md",
