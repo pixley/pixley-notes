@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Permanent Residency.md",
-                "mode": "preview",
+                "file": "Tasks/Dog Adoption.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Permanent Residency.md",
+                "file": "Tasks/Dog Adoption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Permanent Residency.md",
+                "file": "Tasks/Dog Adoption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Permanent Residency.md"
+                "file": "Tasks/Dog Adoption.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "caf11f30195b67f3",
   "lastOpenFiles": [
-    "Tasks/EU Blue Card.md",
-    "Tasks/Permanent Residency.md",
     "Tasks/Major Task List.md",
+    "Tasks/Dog Adoption.md",
+    "Tasks/Permanent Residency.md",
+    "Tasks/EU Blue Card.md",
     "Gaming To-Do List.md",
     "Teaching Luyou/Grammar Basics.md",
     "Teaching Luyou/Things to Teach Luyou.md",
@@ -187,7 +188,6 @@
     "Concepts/Localization in Qt.md",
     "Mental Health/Mental Health.md",
     "Projects/Personal Qt-Based Library.md",
-    "Projects/Pi-Hole.md",
-    "Projects/RPG Sounds Replacement.md"
+    "Projects/Pi-Hole.md"
   ]
 }
