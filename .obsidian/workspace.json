@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54436f1fef062571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random Notes/Random Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "caf11f30195b67f3",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +148,15 @@
   },
   "active": "caf11f30195b67f3",
   "lastOpenFiles": [
-    "Tasks/Major Task List.md",
+    "Tasks/Therapists.md",
     "Tasks/Dog Adoption.md",
-    "Tasks/Permanent Residency.md",
     "Tasks/EU Blue Card.md",
+    "Projects/RPG Sounds Community Patch.md",
+    "Projects/RPG Sounds Replacement.md",
+    "Projects/Project Ideas.md",
+    "Projects/Scribe Replacement for Obsidian.md",
+    "Tasks/Major Task List.md",
+    "Tasks/Permanent Residency.md",
     "Gaming To-Do List.md",
     "Teaching Luyou/Grammar Basics.md",
     "Teaching Luyou/Things to Teach Luyou.md",
@@ -178,16 +170,11 @@
     "Concepts/Concepts to Consider.md",
     "Concepts/Dream Programming Language.md",
     "Concepts/PF2e Remaster Notes.md",
-    "Projects/Project Ideas.md",
-    "Tasks/Therapists.md",
     "Tasks/Absentee Ballot Registration.md",
     "Projects/Use Ultra Spicy server as a VPN.md",
-    "Projects/Scribe Replacement for Obsidian.md",
     "Projects/Migrate Luyou Weebly to Wordpress.md",
     "Projects/TimelineBuilder.md",
     "Concepts/Localization in Qt.md",
-    "Mental Health/Mental Health.md",
-    "Projects/Personal Qt-Based Library.md",
-    "Projects/Pi-Hole.md"
+    "Mental Health/Mental Health.md"
   ]
 }
