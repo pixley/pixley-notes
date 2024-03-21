@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Dog Adoption.md",
+                "file": "Daily Life/March 2024/22 March 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fbe305295084368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Life/March 2024/21 March 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Dog Adoption.md",
+                "file": "Daily Life/March 2024/21 March 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Dog Adoption.md",
+                "file": "Daily Life/March 2024/21 March 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Dog Adoption.md"
+                "file": "Daily Life/March 2024/21 March 2024.md"
               }
             }
           }
@@ -146,20 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caf11f30195b67f3",
+  "active": "7fbe305295084368",
   "lastOpenFiles": [
-    "Tasks/Therapists.md",
+    "Daily Life/March 2024/22 March 2024.md",
+    "Daily Life/March 2024/21 March 2024.md",
+    "Teaching Luyou/Things to Teach Luyou.md",
+    "Daily Life/Template.md",
+    "Projects/Project Ideas.md",
+    "Tasks/Major Task List.md",
+    "Daily Life/March 2024",
+    "Daily Life",
+    "Tasks/Untitled",
     "Tasks/Dog Adoption.md",
+    "Tasks/Therapists.md",
     "Tasks/EU Blue Card.md",
     "Projects/RPG Sounds Community Patch.md",
     "Projects/RPG Sounds Replacement.md",
-    "Projects/Project Ideas.md",
     "Projects/Scribe Replacement for Obsidian.md",
-    "Tasks/Major Task List.md",
     "Tasks/Permanent Residency.md",
     "Gaming To-Do List.md",
     "Teaching Luyou/Grammar Basics.md",
-    "Teaching Luyou/Things to Teach Luyou.md",
     "Teaching Luyou",
     "Root.md",
     "Random Notes/AGDQ 2024 Runs of Note.md",
@@ -172,9 +191,6 @@
     "Concepts/PF2e Remaster Notes.md",
     "Tasks/Absentee Ballot Registration.md",
     "Projects/Use Ultra Spicy server as a VPN.md",
-    "Projects/Migrate Luyou Weebly to Wordpress.md",
-    "Projects/TimelineBuilder.md",
-    "Concepts/Localization in Qt.md",
-    "Mental Health/Mental Health.md"
+    "Projects/Migrate Luyou Weebly to Wordpress.md"
   ]
 }
