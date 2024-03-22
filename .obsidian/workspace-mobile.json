@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Scribe Replacement for Obsidian.md",
+                "file": "Daily Life/March 2024/22 March 2024.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Projects/Scribe Replacement for Obsidian.md",
+            "file": "Daily Life/March 2024/22 March 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Projects/Scribe Replacement for Obsidian.md",
+            "file": "Daily Life/March 2024/22 March 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Projects/Scribe Replacement for Obsidian.md"
+            "file": "Daily Life/March 2024/22 March 2024.md"
           }
         }
       }
@@ -133,6 +133,11 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
+    "Teaching Luyou/Grammar Basics.md",
+    "Random Notes/AGDQ 2024 Runs of Note.md",
+    "Teaching Luyou/Things to Teach Luyou.md",
+    "Teaching Luyou",
+    "Concepts/Toy English Phonetic Alphabet.md",
     "Projects/Project Ideas.md",
     "Projects/Scribe Replacement for Obsidian.md",
     "Concepts/Dream Programming Language.md",
@@ -158,7 +163,6 @@
     "Concepts/Localization in Qt.md",
     "Concepts",
     "Tasks",
-    "Projects",
-    "Projects/Pi-Hole.md"
+    "Projects"
   ]
 }
