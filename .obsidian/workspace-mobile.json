@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Life/March 2024/22 March 2024.md",
+                "file": "Daily Life/March 2024/23 March 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Life/March 2024/22 March 2024.md",
+            "file": "Daily Life/March 2024/23 March 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Life/March 2024/22 March 2024.md",
+            "file": "Daily Life/March 2024/23 March 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Life/March 2024/22 March 2024.md"
+            "file": "Daily Life/March 2024/23 March 2024.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "7018041cf2fd92f0",
   "lastOpenFiles": [
+    "Daily Life/March 2024/22 March 2024.md",
+    "Daily Life/March 2024/23 March 2024.md",
     "Teaching Luyou/Grammar Basics.md",
     "Random Notes/AGDQ 2024 Runs of Note.md",
     "Teaching Luyou/Things to Teach Luyou.md",
@@ -158,9 +160,7 @@
     "Tasks/German Driver Licenses.md",
     "Tasks/EU Blue Card.md",
     "Tasks/Absentee Ballot Registration.md",
-    "Tasks/(Am.md",
     "Mental Health",
-    "Concepts/Localization in Qt.md",
     "Concepts",
     "Tasks",
     "Projects"
